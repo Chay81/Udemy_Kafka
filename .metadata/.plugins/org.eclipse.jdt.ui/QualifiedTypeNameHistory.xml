@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.common.serialization.StringDeserializer"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="io.confluent.kafka.serializers.KafkaAvroSerializer"/>
+    <fullyQualifiedTypeName name="com.chay.kafka.avro.Order"/>
+    <fullyQualifiedTypeName name="io.confluent.kafka.serializers.KafkaAvroDeserializer"/>
+</qualifiedTypeNameHistroy>
